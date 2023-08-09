@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrakant</h1>
-<h3 align="center">Innovative software developer with passion for great solutions</h3>
+<h3 align="center">I am a Software Developer with passion for innovative solutions</h3>
 
 <p align="left"> <a href="https://github.com/chandrakant07-da"><img src="https://github-profile-trophy.vercel.app/?username=chandrakant07-da" alt="chandrakant07-da" /></a> </p>
 
