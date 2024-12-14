@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ckant912@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CXkXjquqyG2AmaHBrwrBV2VN9UPkHaYg/view?usp=drivesdk](https://drive.google.com/file/d/1CXkXjquqyG2AmaHBrwrBV2VN9UPkHaYg/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CXkXjquqyG2AmaHBrwrBV2VN9UPkHaYg/view?usp=drivesdk]([https://drive.google.com/file/d/1JyVuykBn8jLkIk2owp3CGiyKzUYidKkW/view](https://drive.google.com/file/d/1JyVuykBn8jLkIk2owp3CGiyKzUYidKkW/view?usp=sharing))
 
 - ⚡ Fun fact **Programming languages are like human ones - there are approximately 700 programming languages, just as there are 7000 human languages.**
 
