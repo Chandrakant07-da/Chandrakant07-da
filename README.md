@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building Skills**
 
-- 💬 Ask me about **Node.js , React.Js , Next.js , TypeScript**
+- 💬 Ask me about **Node.js , React.js, Next.js, Express.js, MongoDb , JavaScript, TypeScript**
 
 - 📫 How to reach me **ckant912@gmail.com**
 
